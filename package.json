@@ -1,0 +1,26 @@
+{
+  "name": "gulp-prettier",
+  "version": "0.0.1",
+  "description": "Gulp plugin for prettier",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cprussin/gulp-prettier.git"
+  },
+  "keywords": [
+    "gulp",
+    "prettier",
+    "gulp-prettier"
+  ],
+  "author": "Connor Prussin <connor@prussin.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cprussin/gulp-prettier/issues"
+  },
+  "homepage": "https://github.com/cprussin/gulp-prettier#readme",
+  "dependencies": {
+    "plugin-error": "^1.0.1",
+    "prettier": "^1.10.2",
+    "through2": "^2.0.3"
+  }
+}
