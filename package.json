@@ -1,5 +1,5 @@
 {
-  "name": "gulp-prettier",
+  "name": "cp-gulp-prettier",
   "version": "0.0.1",
   "description": "Gulp plugin for prettier",
   "main": "index.js",
